@@ -1,4 +1,4 @@
-![Anam Banner Image](<https://github.com/AnamSadat/pengalaman-belajar/blob/main/Tambahkan%20judul%20(1).png>)
+![Anam Banner Image](https://github.com/AnamSadat/AnamSadat/blob/main/Profil-Github.png)
 
 ### <h1>Hi there 👋 I am Anam Sadat</h1>
 
