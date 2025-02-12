@@ -10,8 +10,9 @@
 - 💻 computer: &nbsp;Connect with me on **[[LinkedIn](https://www.linkedin.com/in/anam-sadat-7a1b55253/)]**
 - 📫 How to reach me **anamsadat3@gmail.com**
 - 📝 I studied at Sekolah Tinggi Ilmu Komputer Poltek Cirebon
-- 💬 Ask me about: anything, I am happy to help
--     <img src="https://komarev.com/ghpvc/?username=AnamSadat&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" />
+- 💬 Ask me about: anything, I am happy to help <br/>
+
+     <img src="https://komarev.com/ghpvc/?username=AnamSadat&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" />
       <a href="https://github.com/AnamSadat?tab=followers"><img src="https://img.shields.io/github/followers/AnamSadat?label=Followers&style=social" alt="GitHub Badge"></a>
   <br><br>
 
@@ -19,47 +20,43 @@
 
 ### 💻 &nbsp;Programming Leanguage
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,php&perline=10)](https://skillicons.dev)
+
+<!-- <p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,vscode,docker,postman&perline=10"  />
+</p> -->
 
 ### ⚙️ &nbsp;Framework & Libraries
 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,nodejs,npm,pnpm,express,laravel,tailwind,vite&perline=10)](https://skillicons.dev)
+
 ### ⚙️ &nbsp;Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite,prisma,sequelize&perline=10)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle)
 
 ### ⚙️ &nbsp;Cloud & DevOps
 
+[![My Skills](https://skillicons.dev/icons?i=gcp,docker&perline=10)](https://skillicons.dev)
+
 ### ⚙️ &nbsp;Tool & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman,figma,notion,visualstudio,stackoverflow&perline=10)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AnamSadat">
    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=eeeee4&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=063970" alt="gabrlcj" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=55a1f7&text_color=eeeee4&icon_color=0c0c0c&layout=compact&hide_border=false&bg_color=0d1117" alt="gabrlcj" />
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram,discord&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=10)](https://linkedin.com/in/anamsadat)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook)
 
 <!-- <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
