@@ -47,8 +47,8 @@
 
 <p align="center">
 <a href="https://github.com/AnamSadat">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=55a1f7&text_color=eeeee4&icon_color=0c0c0c&layout=compact&hide_border=false&bg_color=0d1117" alt="gabrlcj" />
+   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AnamSadat&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnamSadat&show_icons=true&theme=slateorange&title_color=55a1f7&text_color=eeeee4&icon_color=0c0c0c&layout=compact&hide_border=false&bg_color=0d1117" alt="gabrlcj" />
 </a>
 </p>
 
