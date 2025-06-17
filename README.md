@@ -3,73 +3,64 @@
 ### <h1>Hi there 👋 I am Anam Sadat</h1>
 
 > I am Fullstack Web Developer
-> <br />
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-- 💻 computer: &nbsp;Connect with me on **[[LinkedIn](https://www.linkedin.com/in/anam-sadat-7a1b55253/)]**
+- 💻 computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/anamsadat/)**
 - 📫 How to reach me **anamsadat3@gmail.com**
 - 📝 I studied at Sekolah Tinggi Ilmu Komputer Poltek Cirebon
 - 💬 Ask me about: anything, I am happy to help <br/>
 
-     <img src="https://komarev.com/ghpvc/?username=AnamSadat&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" />
-      <a href="https://github.com/AnamSadat?tab=followers"><img src="https://img.shields.io/github/followers/AnamSadat?label=Followers&style=social" alt="GitHub Badge"></a>
-  <br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=AnamSadat)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/anamsdttt/)
+<a href="https://github.com/AnamSadat?tab=followers"><img src="https://img.shields.io/github/followers/AnamSadat?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 💻 &nbsp;Programming Leanguage
+### 💻 Programming Leanguage
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,php&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,php,python&perline=10)](https://skillicons.dev)
 
-<!-- <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,vscode,docker,postman&perline=10"  />
-</p> -->
+### ⚙️ Framework & Libraries
 
-### ⚙️ &nbsp;Framework & Libraries
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,nodejs,express,flask,laravel,tailwind,vite&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,nodejs,npm,pnpm,express,laravel,tailwind,vite&perline=10)](https://skillicons.dev)
+### 🗄️ Databases
 
-### ⚙️ &nbsp;Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite,prisma,sequelize,postgresql&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite,prisma,sequelize&perline=10)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle)
-
-### ⚙️ &nbsp;Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,docker&perline=10)](https://skillicons.dev)
 
-### ⚙️ &nbsp;Tool & Technologies
+### 🛠️ Tool & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman,figma,notion,visualstudio,stackoverflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman,figma,notion,visualstudio,powershell&perline=10)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu)
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 GitHub Analytics
+
+<div align="center">
+ <a href="https://github.com/AnamSadat">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnamSadat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ </a>
+ &nbsp;
+ <a href="https://github.com/AnamSadat">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnamSadat&layout=compact&langs_count=8&theme=dark&exclude_repo=laravel-lte-boilerplate"/>
+ </a>
+</div>
+
+### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://github.com/AnamSadat">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AnamSadat&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnamSadat&show_icons=true&theme=slateorange&title_color=55a1f7&text_color=eeeee4&icon_color=0c0c0c&layout=compact&hide_border=false&bg_color=0d1117" alt="gabrlcj" />
-</a>
+<a href="https://linkedin.com/in/anamsadatt"><img src="https://img.shields.io/badge/anamsadat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:anamsadat3@gmail.com"><img src="https://img.shields.io/badge/-anamsadat3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/anamsdttt"><img src="https://img.shields.io/badge/-anamsdttt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/Anam Sadat"><img src="https://img.shields.io/badge/-Anam Sadat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram,discord&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=10)](https://linkedin.com/in/anamsadat)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook)
-
-<!-- <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p> -->
-
----
-
-Credits: [Anam Sadat](https://github.com/AVS1508)
-
-Last Edited on: 12/02/2025
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanhfw/evanhfw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evanhfw/evanhfw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/evanhfw/evanhfw/output/github-snake.svg" />
+</picture>
