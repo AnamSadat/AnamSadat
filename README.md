@@ -23,7 +23,7 @@
 
 ### ⚙️ Framework & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,nodejs,express,flask,laravel,tailwind,vite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,nodejs,express,flask,laravel,tailwind,vite&perline=10)](https://skillicons.dev) <img src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" width="40" title="Hapi.js" style="background-color: #242938; padding: 5px; border-radius: 10px; margin-left: 5px" />
 
 ### 🗄️ Databases
 
@@ -53,10 +53,10 @@
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/anamsadatt"><img src="https://img.shields.io/badge/anamsadat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/anamsadat"><img src="https://img.shields.io/badge/anamsadat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anamsadat3@gmail.com"><img src="https://img.shields.io/badge/-anamsadat3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/anamsdttt"><img src="https://img.shields.io/badge/-anamsdttt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/Anam Sadat"><img src="https://img.shields.io/badge/-Anam Sadat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/anam.sdttt/"><img src="https://img.shields.io/badge/-anamsdttt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/anam.sdttt"><img src="https://img.shields.io/badge/-Anam Sadat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <picture>
