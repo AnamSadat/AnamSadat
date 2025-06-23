@@ -2,9 +2,9 @@
 
 ![Anam Banner Image](https://github.com/AnamSadat/AnamSadat/blob/main/Profil-Github.png)
 
-> I am Fullstack Web Developer
-
 ## 👨🏻‍💻 About Me
+
+> I am Fullstack Web Developer
 
 - 💻 computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/anamsadat/)**
 - 📫 How to reach me **[anamsadat3@gmail.com](mailto:anamsadat3@gmail.com)**
@@ -49,7 +49,6 @@
  <a href="https://github.com/AnamSadat">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnamSadat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  </a>
- &nbsp;
  <a href="https://github.com/AnamSadat">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnamSadat&layout=compact&langs_count=8&theme=dark&exclude_repo=laravel-lte-boilerplate"/>
  </a>
