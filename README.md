@@ -47,12 +47,8 @@
 
 <div align="center">
   <a href="https://github.com/AnamSadat"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnamSadat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>&nbsp;&nbsp;<a href="https://github.com/AnamSadat"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnamSadat&layout=compact&langs_count=8&theme=dark&exclude_repo=laravel-lte-boilerplate"/></a>
-  <a href="https://github.com/AnamSadat"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnamSadat&theme=dark"/></a>
-  <a href="https://github.com/AnamSadat"><img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=AnamSadat&theme=dark&hide_border=false"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=AnamSadat&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnamSadat&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=AnamSadat&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 🐍 GitHub Contributions
 
