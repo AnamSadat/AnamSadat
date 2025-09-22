@@ -49,6 +49,8 @@
  <a href="https://github.com/AnamSadat"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnamSadat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>&nbsp;&nbsp;<a href="https://github.com/AnamSadat"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnamSadat&layout=compact&langs_count=8&theme=dark&exclude_repo=laravel-lte-boilerplate"/></a>
 </div>
 
+### 🐍 GitHub Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnamSadat/AnamSadat/refs/heads/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnamSadat/AnamSadat/refs/heads/output/github-snake.svg" />
