@@ -51,6 +51,8 @@
   <a href="https://github.com/AnamSadat"><img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=AnamSadat&theme=dark&hide_border=false"/></a>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnamSadat&theme=dark)](https://git.io/streak-stats)
+
 ### 🐍 GitHub Contributions
 
 <picture>
