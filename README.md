@@ -23,18 +23,20 @@
 
 ### 💻 Programming Leanguage
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,php,python&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,go,php,python&perline=10)](https://skillicons.dev)
 
 ### ⚙️ Framework & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,vue,nodejs,bun,express,flask,laravel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,vue,nuxtjs,nodejs,bun,express,flask&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,vite,rabbitmq,redux&perline=10)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gin)
+[![My Skills](https://skillicons.dev/icons?i=laravel,sass,tailwind,vite,rabbitmq,redux&perline=10)](https://skillicons.dev)
 <img src="https://github.com/AnamSadat/hosting-image/blob/af891e4661754eeae01b5dbc9a2040f6347e4c38/hapijss.png" width="50" title="Hapi.js" style="padding-left: 5px;"/>
 
 ### 🗄️ Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite,prisma,sequelize,postgresql,redis,supabase&perline=10)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongoose,gorm)
 
 ### ☁️ Cloud & DevOps
 
