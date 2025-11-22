@@ -27,8 +27,9 @@
 
 ### ⚙️ Framework & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,vue,nodejs,bun,express,flask,laravel,tailwind,vite,rabbitmq,redux&perline=10)](https://skillicons.dev)
-<img src="https://github.com/AnamSadat/hosting-image/blob/af891e4661754eeae01b5dbc9a2040f6347e4c38/hapijss.png" width="50" title="Hapi.js"/>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,vue,nodejs,bun,express,flask,laravel,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,rabbitmq,redux&perline=10)](https://skillicons.dev)
+<img src="https://github.com/AnamSadat/hosting-image/blob/af891e4661754eeae01b5dbc9a2040f6347e4c38/hapijss.png" width="50" title="Hapi.js" />
 
 ### 🗄️ Databases
 
