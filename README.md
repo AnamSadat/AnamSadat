@@ -27,21 +27,21 @@
 
 ### ⚙️ Framework & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,nodejs,express,flask,laravel,tailwind,vite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,vue,nodejs,bun,express,flask,laravel,tailwind,vite,rabbitmq,redux&perline=10)](https://skillicons.dev)
 <img src="https://github.com/AnamSadat/hosting-image/blob/af891e4661754eeae01b5dbc9a2040f6347e4c38/hapijss.png" width="50" title="Hapi.js"/>
 
 ### 🗄️ Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite,prisma,sequelize,postgresql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite,prisma,sequelize,postgresql,redis,supabase&perline=10)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker&perline=10)](https://skillicons.dev)
 
 ### 🛠️ Tool & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman,figma,notion,visualstudio,powershell&perline=10)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman,figma,discord,notion,obsidian,visualstudio,powershell&perline=10)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cursor,zed,ubuntu,fedora)
 
 ### 📊 GitHub Analytics
 
