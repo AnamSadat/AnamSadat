@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,vue,nodejs,bun,express,flask,laravel&perline=10)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,vite,rabbitmq,redux&perline=10)](https://skillicons.dev)
-<img src="https://github.com/AnamSadat/hosting-image/blob/af891e4661754eeae01b5dbc9a2040f6347e4c38/hapijss.png" width="50" title="Hapi.js" />
+<img src="https://github.com/AnamSadat/hosting-image/blob/af891e4661754eeae01b5dbc9a2040f6347e4c38/hapijss.png" width="50" title="Hapi.js" style="padding-left: 5px;"/>
 
 ### 🗄️ Databases
 
