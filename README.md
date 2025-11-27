@@ -13,7 +13,7 @@
 
 <!-- Sosial Media -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnamSadat)
+![Profile Views](https://komarev.com/ghpvc/?username=AnamSadat&color=green)
 [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/anam.sdttt)
 [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/anam.sdttt)
 [![GitHub](https://img.shields.io/github/followers/AnamSadat?label=Followers&style=social)](https://github.com/AnamSadat?tab=followers)
