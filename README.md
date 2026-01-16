@@ -29,14 +29,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,vue,nuxtjs,nodejs,bun,express,flask&perline=10)](https://skillicons.dev)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gin,tanstack)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,gin,tanstack,betterauth)
 [![My Skills](https://skillicons.dev/icons?i=laravel,sass,tailwind,vite,rabbitmq,redux,pinia&perline=10)](https://skillicons.dev)
 <img src="https://github.com/AnamSadat/hosting-image/blob/af891e4661754eeae01b5dbc9a2040f6347e4c38/hapijss.png" width="50" title="Hapi.js" style="padding-left: 5px;"/>
 
 ### 🗄️ Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite,prisma,sequelize,postgresql,redis,supabase&perline=10)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongoose,gorm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongoose,gorm,drizzle)
 
 ### ☁️ Cloud & DevOps
 
@@ -45,7 +45,7 @@
 ### 🛠️ Tool & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman,figma,discord,notion,obsidian,visualstudio,powershell&perline=10)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cursor,zed,ubuntu,fedora)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cursor,zed,arch)
 
 ### 📊 GitHub Analytics
 
